@@ -22,7 +22,7 @@ Passionate about learning new technologies, creating, and building solutions for
 ---
 
 ## 📌 Featured Projects
-### 🔹 Emergency Evacuation Simulation for Mine Workers  
+### 🔹 Emergency Evacuation Simulation 
 Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
 
 ### 🔹 Sport Movement Accuracy Detection  

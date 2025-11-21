@@ -10,7 +10,7 @@ Passionate about learning new technologies, creating, and building solutions for
 ## 🚀 My Interests
 - Artificial Intelligence & Machine Learning  
 - Web Development  
-- Hardware & Embedded Systems  
+- Hardware 
 - Project Development & Teamwork
 
 ---

@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Meryem Kavak**
 
-2nd-year Computer Engineering student who loves building things, experimenting with tech, and learning by doing.  
-I enjoy turning ideas into projects, exploring how systems work, and improving a little more with every new challenge.
+Hello, I'm Meryem .Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
 
 ---
 

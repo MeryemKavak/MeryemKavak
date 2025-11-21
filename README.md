@@ -1,19 +1,18 @@
-# 👋 Hey, I’m Meryem Kavak
+ # 👋 Hi, I'm Meryem Kavak
 
-Turning coffee into code ☕💻  
-Second-year Computer Engineering student passionate about software development, AI & creative tech solutions. Always exploring, building, and learning.
-
----
-
-## 🚀 What I’m Exploring
-- **AI & ML:** From datasets to insights  
-- **Web Dev:** Crafting interactive experiences  
-- **Hardware:** Exploring tech beyond code  
-- **Team Projects:** Problem-solving together
+Hello, I'm Meryem .Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 My Interests
+- Artificial Intelligence & Machine Learning  
+- Web Development  
+- Hardware 
+- Project Development & Teamwork
+
+---
+
+## 🛠️ Technologies I Use
 **Languages:** C++, Python  
 **Tools & Frameworks:** Git, GitHub, HTML, CSS, OpenCV, Blender (basic)
 
@@ -21,27 +20,25 @@ Second-year Computer Engineering student passionate about software development, 
 
 ## 📌 Featured Projects
 ### 🔹 Emergency Evacuation Simulation 
-AI-powered route suggestion for real-time hazard scenarios.  
-**Tech:** Python, Simulation, Sensors
+Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
 
 ### 🔹 Sport Movement Accuracy Detection  
-Tracks exercise correctness via OpenCV & pose estimation. Mobile-friendly interface.  
-**Tech:** Python, OpenCV, Flutter
+A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
 
-### 🔹 BMI Web App  
-Calculates BMI, generates workout plans & integrates YouTube exercise videos.  
-**Tech:** HTML, CSS, JS
+### 🔹 Body Mass Index (BMI) Web App  
+Web app that calculates BMI from user input and generates personalized workout plans.
 
 ---
 
 ## 🎓 Education
-**Yozgat Bozok University – Computer Engineering (2nd Year)**
+**Yozgat Bozok University – Computer Engineering (2nd Year)**  
+Focused on blending academic knowledge with hands-on projects.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Get in Touch
 📧 Email: kavakmeryem07@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/meryemkavak](https://www.linkedin.com/in/meryemkavak)
+🔗 LinkedIn: www.linkedin.com/in/meryemkavak
 
 ---
 
@@ -50,4 +47,7 @@ Calculates BMI, generates workout plans & integrates YouTube exercise videos.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark)
 
-⭐ Thanks for stopping by!
+
+
+
+⭐ *Thanks for stopping by my profile!*

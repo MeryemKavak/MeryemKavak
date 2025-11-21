@@ -44,11 +44,11 @@ Focused on blending academic knowledge with hands-on projects.
 
 ## 📊 GitHub Stats
 
-| Metric                   | Visual |
-|---------------------------|--------|
-| 🟩 Contributions         | ![Meryem's GitHub contributions](https://ghchart.rshah.org/MeryemKavak?theme=dark) |
-| 📦 Top Languages         | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark) |
-| ⭐ Total Stars           | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark) |
+| Metric           | Visual |
+|-----------------|--------|
+| 📦 Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark) |
+| ⭐ Total Stars   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark) |
+
 
 
 

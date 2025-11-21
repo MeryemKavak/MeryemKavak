@@ -1,18 +1,19 @@
-# 👋 Hi, I'm Meryem Kavak
+# 👋 Hey, I’m Meryem Kavak
 
-Hello, I'm Meryem .Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
-
----
-
-## 🚀 My Interests
-- Artificial Intelligence & Machine Learning  
-- Web Development  
-- Hardware 
-- Project Development & Teamwork
+Turning coffee into code ☕💻  
+Second-year Computer Engineering student passionate about software development, AI & creative tech solutions. Always exploring, building, and learning.
 
 ---
 
-## 🛠️ Technologies I Use
+## 🚀 What I’m Exploring
+- **AI & ML:** From datasets to insights  
+- **Web Dev:** Crafting interactive experiences  
+- **Hardware:** Exploring tech beyond code  
+- **Team Projects:** Problem-solving together
+
+---
+
+## 🛠️ Tech Stack
 **Languages:** C++, Python  
 **Tools & Frameworks:** Git, GitHub, HTML, CSS, OpenCV, Blender (basic)
 
@@ -20,37 +21,33 @@ Hello, I'm Meryem .Second-year Computer Engineering student passionate about sof
 
 ## 📌 Featured Projects
 ### 🔹 Emergency Evacuation Simulation 
-Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
+AI-powered route suggestion for real-time hazard scenarios.  
+**Tech:** Python, Simulation, Sensors
 
 ### 🔹 Sport Movement Accuracy Detection  
-A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
+Tracks exercise correctness via OpenCV & pose estimation. Mobile-friendly interface.  
+**Tech:** Python, OpenCV, Flutter
 
-### 🔹 Body Mass Index (BMI) Web App  
-Web app that calculates BMI from user input and generates personalized workout plans.
+### 🔹 BMI Web App  
+Calculates BMI, generates workout plans & integrates YouTube exercise videos.  
+**Tech:** HTML, CSS, JS
 
 ---
 
 ## 🎓 Education
-**Yozgat Bozok University – Computer Engineering (2nd Year)**  
-Focused on blending academic knowledge with hands-on projects.
+**Yozgat Bozok University – Computer Engineering (2nd Year)**
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect with Me
 📧 Email: kavakmeryem07@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/meryemkavak
+🔗 LinkedIn: [linkedin.com/in/meryemkavak](https://www.linkedin.com/in/meryemkavak)
 
 ---
 
 ## 📊 GitHub Stats
 
-| Metric           | Visual |
-|-----------------|--------|
-| 📦 Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark) |
-| ⭐ Total Stars   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark)
 
-
-
-
-⭐ *Thanks for stopping by my profile!*
-
+⭐ Thanks for stopping by!

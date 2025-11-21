@@ -45,4 +45,4 @@ Focused on blending academic knowledge with hands-on projects.
 
 ---
 
-⭐ *Thanks for stopping by my profile! Feel free to explore my projects and connect!*
+⭐ *Thanks for stopping by my profile!*

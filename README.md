@@ -5,6 +5,7 @@ Hello, I'm Meryem .Second-year Computer Engineering student passionate about sof
 ---
 
 ## 🚀 My Interests
+- Software
 - Artificial Intelligence & Machine Learning  
 - Web Development  
 - Hardware 

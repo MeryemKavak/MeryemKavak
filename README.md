@@ -1,34 +1,48 @@
-# 👋 Hey, I'm Meryem Kavak
+# 👋 Hi, I'm Meryem Kavak
 
-Second-year Computer Engineering student who loves turning ideas into working projects.  
-I’m currently exploring software development, AI, and simple hardware systems—öğrenmeyi bırakmayan biri olarak sürekli yeni şeylerle uğraşmayı seviyorum.
+**Computer Engineering Student | Software Development & AI Enthusiast**  
 
-## 🚀 What I’m Working On
-- AI & Machine Learning
-- Web development
-- Basic hardware projects
-- Team-based problem solving
+I’m a developer who loves turning theoretical knowledge into real-world projects.  
+Passionate about learning new technologies, creating, and building solutions for real problems.
 
-## 🛠️ Tech & Tools
+---
+
+## 🚀 My Interests
+- Artificial Intelligence & Machine Learning  
+- Web Development  
+- Hardware & Embedded Systems  
+- Project Development & Teamwork
+
+---
+
+## 🛠️ Technologies I Use
 **Languages:** C++, Python  
-**Tools:** Git, GitHub, HTML, CSS, OpenCV, Blender (beginner)
+**Tools & Frameworks:** Git, GitHub, HTML, CSS, OpenCV, Blender (basic)
 
-## 📌 Projects
-### **Emergency Evacuation Simulation**
-AI-supported system modeling emergency scenarios (fire, gas leaks) and generating safe evacuation routes.
+---
 
-### **Sport Movement Accuracy Detection**
-Pose-estimation with OpenCV to check exercise form, built with a simple mobile UI.
+## 📌 Featured Projects
+### 🔹 Emergency Evacuation Simulation for Mine Workers  
+Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
 
-### **BMI Web App**
-Web tool that calculates BMI and recommends training plans based on user inputs.
+### 🔹 Sport Movement Accuracy Detection  
+A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
+
+### 🔹 Body Mass Index (BMI) Web App  
+Web app that calculates BMI from user input and generates personalized workout plans.
+
+---
 
 ## 🎓 Education
 **Yozgat Bozok University – Computer Engineering (2nd Year)**  
-Improving myself through real projects and continuous learning.
+Focused on blending academic knowledge with hands-on projects.
 
-## 📫 Contact
-📧 **Email:** kavakmeryem07@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/meryem-kavak-b31480277
+---
 
-✨ Thanks for visiting!
+## 📫 Get in Touch
+📧 Email: kavakmeryem07@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/meryem-kavak-b31480277](https://www.linkedin.com/in/meryem-kavak-b31480277)
+
+---
+
+⭐ *Thanks for stopping by my profile! Feel free to explore my projects and connect!*

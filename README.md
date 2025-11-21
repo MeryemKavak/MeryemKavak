@@ -38,7 +38,7 @@ Focused on blending academic knowledge with hands-on projects.
 
 ## 📫 Get in Touch
 📧 Email: kavakmeryem07@gmail.com  
-🔗 LinkedIn: [www.linkedin.com/in/meryem-kavak-b31480277](https://www.linkedin.com/in/meryem-kavak-b31480277)
+🔗 LinkedIn: www.linkedin.com/in/meryemkavak
 
 ---
 

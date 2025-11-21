@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Meryem Kavak
 
-Computer Engineering Student  
-
-I’m a developer who loves turning theoretical knowledge into real-world projects.  
-Passionate about learning new technologies, creating, and building solutions for real problems.
+Hello, I'm Meryem .Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
 
 ---
 

@@ -1,43 +1,44 @@
-# 👋 Hi there  
-## **I’m Meryem Kavak**  
-**2nd-Year Computer Engineering Student | Software Development & Artificial Intelligence Enthusiast**
+# 👋 Hi, I'm **Meryem Kavak**
 
-I’m a developer focused on continuous learning through both academic studies and hands-on projects. I enjoy exploring new technologies, building useful applications, and creating solutions to real-world problems.
+2nd-year Computer Engineering student who loves building things, experimenting with tech, and learning by doing.  
+I enjoy turning ideas into projects, exploring how systems work, and improving a little more with every new challenge.
 
 ---
 
-## 🚀 Interests
+## 🚀 What I’m Interested In
 - Artificial Intelligence & Machine Learning  
-- Web Technologies  
-- Hardware & Embedded Systems  
-- Project Development & Team Collaboration  
+- Web development  
+- Basic hardware systems  
+- Team projects and problem-solving
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Technologies & Tools
 
-**Programming Languages:** C++, Python  
+**Languages:** C++, Python  
 <br>
-**Tools & Technologies:** Git, GitHub, HTML, CSS, OpenCV, Blender (basic)
+**Tools:** Git, GitHub, HTML, CSS, OpenCV, Blender (beginner level)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Some of My Projects
 
-### 🔸 **Emergency Evacuation Simulation for Mine Workers**  
-A system that simulates real-time sensor data, models fire and gas hazard scenarios, and provides AI-powered evacuation route recommendations.
+### **Emergency Evacuation Simulation for Mine Workers**  
+A simulation system that models fire/gas scenarios and suggests evacuation routes using AI logic.  
+Includes sensor data simulation and dynamic hazard mapping.
 
-### 🔸 **Sport Movement Accuracy Detection**  
-A pose-estimation-based system using OpenCV to analyze the accuracy of sports movements. Includes a mobile UI for improved user experience.
+### **Sport Movement Accuracy Detection**  
+A pose-estimation project using OpenCV to evaluate exercise form.  
+Designed with a simple mobile-friendly interface.
 
-### 🔸 **Body Mass Index (BMI) Web Application**  
-A web app that calculates BMI using user input and recommends exercise plans based on results.
+### **BMI (Body Mass Index) Web App**  
+A small web project that calculates BMI from user input and suggests training plans.
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 **Yozgat Bozok University – Computer Engineering (2nd Year)**  
-Focused on combining theoretical foundations with practical project development.
+Learning the fundamentals while building real projects to sharpen my skills.
 
 ---
 
@@ -47,4 +48,4 @@ Focused on combining theoretical foundations with practical project development.
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+Thanks for stopping by ✨

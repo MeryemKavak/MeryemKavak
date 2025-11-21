@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meryem Kavak
 
-**Computer Engineering Student **  
+Computer Engineering Student  
 
 I’m a developer who loves turning theoretical knowledge into real-world projects.  
 Passionate about learning new technologies, creating, and building solutions for real problems.

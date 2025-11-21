@@ -23,7 +23,7 @@ I enjoy turning ideas into projects, exploring how systems work, and improving a
 
 ## 📌 Some of My Projects
 
-### **Emergency Evacuation Simulation for Mine Workers**  
+### **Emergency Evacuation Simulation**  
 A simulation system that models fire/gas scenarios and suggests evacuation routes using AI logic.  
 Includes sensor data simulation and dynamic hazard mapping.
 

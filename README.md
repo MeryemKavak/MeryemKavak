@@ -42,4 +42,14 @@ Focused on blending academic knowledge with hands-on projects.
 
 ---
 
+## 📊 GitHub Stats
+
+| Metric                   | Value |
+|---------------------------|-------|
+| 🟩 Total Contributions    | ![Contributions](https://ghchart.rshah.org/kavakmeryem07) |
+| 📦 Repositories           | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=default) |
+| ⭐ Total Stars            | ![Stars](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=default) |
+
+
 ⭐ *Thanks for stopping by my profile!*
+

@@ -46,10 +46,7 @@ Focused on blending academic knowledge with hands-on projects.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&count_private=true&theme=dark)
-
-
 
 
 ⭐ *Thanks for stopping by my profile!*

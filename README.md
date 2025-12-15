@@ -13,18 +13,19 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 - Artificial Intelligence & Machine Learning
 - Web Development
 - Hardware
-- Project Development & Teamwork
 - Robotics & Coding 🤖 (Robotik projeler geliştirmek ve kodlamak)
 ---
 
 ## 🛠️ Technologies I Use
 
-**Languages:** * C++
+**Languages:** 
+* C++
 * Python
 * SQL
 * JavaScript (Web)
 
-**Tools & Frameworks:** * HTML, CSS (Web Development)
+**Tools & Frameworks:** 
+* HTML, CSS (Web Development)
 * .NET
 * OpenCV, Blender (basic)
 * SSMS (SQL Server Management Studio)

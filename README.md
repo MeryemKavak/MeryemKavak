@@ -4,7 +4,7 @@ Ben, yazılım geliştirmeye büyük bir tutkuyla bağlı olan ikinci sınıf **
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&width=480&lines=Sürekli+Öğrenen%2C+Sürekli+Kodlayan;Geleceğin+Bilgisayar+Mühendisi;Yazılım+%26+Yapay+Zeka+Meraklısı" alt="Typing SVG - Yeşil Renk" />
+  <img src="https://typewriter-service.vercel.app/api?lines=Sürekli+Öğrenen%2C+Sürekli+Kodlayan;Geleceğin+Bilgisayar+Mühendisi;Yazılım+%26+Yapay+Zeka+Meraklısı&color=2ecc71&font=Fira%20Code&size=20" alt="Yazıcı Efektli SVG" />
 </p>
 ---
 

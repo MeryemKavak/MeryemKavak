@@ -11,7 +11,7 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 - Hardware 
 - Project Development & Teamwork
 - **Robotics & Coding** 🤖 (Robotik projeler geliştirmek ve kodlamak)
-- **Game & Logic Development (UNO vb. oyunlar)** 🧠 (Mantık ve strateji oyunlarının geliştirilmesine ilgi)
+
 
 ---
 

@@ -10,36 +10,27 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 - Web Development 
 - Hardware 
 - Project Development & Teamwork
-- **Robotics & Coding** 🤖 (Robotik projeler geliştirmek ve kodlamak)
-
+- Robotics & Coding 🤖 (Robotik projeler geliştirmek ve kodlamak)
+- Game & Logic Development (UNO vb. oyunlar) 🧠 (Mantık ve strateji oyunlarının geliştirilmesine ilgi)
 
 ---
 
 ## 🛠️ Technologies I Use
 **Languages:** C++, Python 
-**Tools & Frameworks:** HTML, CSS, OpenCV, Blender (basic), Tinkercad, **Robotics Coding Environments** ---
+**Tools & Frameworks:** HTML, CSS, OpenCV, Blender (basic), Tinkercad, Robotics Coding Environments 
+
+### 📊 Skill Proficiency Summary
+| Kategori | Teknolojiler | Deneyim Seviyesi |
+| :--- | :--- | :--- |
+| **Programlama** | Python, C++ | İyi (Intermediate/Solid) |
+| **Yapay Zeka/ML** | OpenCV, Pose Estimation, AI Algoritmaları | Başlangıç/Orta (Beginner/Intermediate) |
+| **Web Geliştirme** | HTML, CSS | İyi (Intermediate) |
+| **Donanım/Robotik** | Tinkercad, Simülasyon, Robotics Environments | Temel/Orta (Basic/Intermediate) |
+| **Tasarım/Model** | Blender (Basic) | Temel (Basic) |
+
+---
 
 ## 📌 Featured Projects
 ### 🔹 Emergency Evacuation Simulation 
 Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
-
-### 🔹 Sport Movement Accuracy Detection 
-A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
-
-### 🔹 Body Mass Index (BMI) Web App 
-Web app that calculates BMI from user input and generates personalized workout plans.
-
----
-
-## 🎓 Education
-**Yozgat Bozok University – Computer Engineering (2nd Year)** Focused on blending academic knowledge with hands-on projects.
-
----
-
-## 📫 Get in Touch
-📧 Email: kavakmeryem07@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/meryemkavak
-
----
-
-⭐ *Thanks for stopping by my profile!*
+// ... diğer projeler ...

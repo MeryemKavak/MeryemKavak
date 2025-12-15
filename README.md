@@ -38,7 +38,6 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 ## 🎓 Education
 
 **Yozgat Bozok University – Computer Engineering (2nd Year)**
-Focused on blending academic knowledge with practical skills, particularly in software and AI-driven projects.
 
 ---
 

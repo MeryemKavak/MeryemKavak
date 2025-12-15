@@ -26,11 +26,11 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 
 **Tools & Frameworks:** 
 * .NET
-* OpenCV, Blender (basic)
+* OpenCV
 * Node.js
 * SSMS (SQL Server Management Studio)
 * Robotics Coding Environments, Arduino IDE (Robotics/Hardware)
-* Bambo Lab (3D Modeling/Printing),Tinkercad
+* Bambo Lab (3D Modeling/Printing), Tinkercad, Blender (basic)
 
 ---
 

@@ -14,7 +14,8 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 ### 💻 Programlama Dilleri
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i= cpp,sql,html,css,js,rust,dotnet,nodejs" />
+    <img src="https://skillicons.dev/icons?i= cpp,sql,html,css,js,rust,dotnet,nodejs" 
+      />
 </p>
 
 * **C++** : Algoritmalar ve temel sistem programlama.

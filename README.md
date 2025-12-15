@@ -18,10 +18,16 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 ---
 
 ## 🛠️ Technologies I Use
-**Languages:** C++, Python
 
+**Languages:** * C++
+* Python
+* SQL
 
-**Tools & Frameworks:** HTML, CSS, OpenCV, Blender (basic), Tinkercad, Robotics Coding Environments
+**Tools & Frameworks:** * HTML, CSS (Web Development)
+* OpenCV, Blender (basic)
+* SSMS (SQL Server Management Studio)
+* Tinkercad, Robotics Coding Environments, Arduino IDE (Robotics/Hardware)
+* Bambo Lab (3D Modeling/Printing)
 
 ---
 
@@ -40,7 +46,7 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 
 ## 📫 Get in Touch
 📧 Email: kavakmeryem07@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/meryemkavak
+🔗 LinkedIn: [www.linkedin.com/in/meryemkavak](https://www.linkedin.com/in/meryemkavak)
 
 ---
 

@@ -59,7 +59,8 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 * **LinkedIn:** [Meryem Kavak](https://www.linkedin.com/in/meryemkavak)
 
 ---
-
-> ⭐ Thanks for stopping by my profile!
+> 🚀 I am open to internships and job opportunities!
 > 
-> 🚀 **I am open to internships and job opportunities!
+> ⭐ Thanks for stopping by my profile!
+
+

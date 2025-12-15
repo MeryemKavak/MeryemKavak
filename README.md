@@ -26,7 +26,6 @@ I'm a second-year Computer Engineering student and I have a great passion for so
 
 **Tools & Frameworks:** 
 * .NET
-* OpenCV
 * Node.js
 * SSMS (SQL Server Management Studio)
 * Robotics Coding Environments, Arduino IDE (Robotics/Hardware)

@@ -4,7 +4,7 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Original Green Color" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Original Blue Color" />
 </p>
 
 ---

@@ -12,30 +12,21 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 ---
 
 
-## 💡 Interests & Skills
-
-* **Software Development:** Creating solutions using modern languages and frameworks.
-* **Artificial Intelligence (AI) & Machine Learning (ML):** Developing projects focused on data science and learning systems.
-* **Web Development:** Building dynamic applications with Front-end and Back-end technologies.
-* **Robotics & Embedded Systems (Hardware):** Designing robotic projects, programming hardware, and working with physical outputs.
-
----
-
 ## 🛠️ Technologies I Use
 
-### 💻 Programming Languages
-* **C++** ⚙️: Algorithms and foundational system programming.
-* **Python** 🐍: AI, Machine Learning, and scripting.
-* **SQL** 💾: Database management and querying.
-* **HTML, CSS, JavaScript** 🌐: Developing modern Web Applications.
-* **Rust** 🦀 (Currently Learning): System programming focused on performance and safety.
-
+###  Programming Languages
+* **C++** : Algorithms and foundational system programming.
+* **SQL** : Database management and querying.
+* **HTML, CSS, JavaScript** : Developing modern Web Applications.
+* **Rust**  (Currently Learning): System programming focused on performance and safety.
+* **Python** : AI, Machine Learning, and scripting.
+  
 ### ⚙️ Tools and Frameworks
 * **.NET (C#)**: Enterprise-level Backend development.
 * **Node.js**: Server-side application development using JavaScript.
 * **SSMS (SQL Server Management Studio)**: SQL database administration.
 * **Robotics / Embedded Systems** 🤖: Arduino IDE, Raspberry Pi applications.
-* **3D Design** 🧱: Tinkercad, Bambu Lab Slicer, and basic Blender knowledge (for Robotics Projects).
+* **3D Design** : Tinkercad, Bambu Lab Slicer, and basic Blender knowledge (for Robotics Projects).
 
 ---
 

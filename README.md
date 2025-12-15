@@ -20,18 +20,18 @@ Ben, yazılım geliştirmeye büyük bir tutkuyla bağlı olan ikinci sınıf **
 ## 🛠️ Kullandığım Teknolojiler
 
 ### 💻 Programlama Dilleri
-* **C++** ⚙️: Algoritma ve temel sistem programlama.
-* **Python** 🐍: Yapay Zeka, Makine Öğrenimi ve betikleme.
-* **SQL** 💾: Veritabanı yönetimi ve sorgulama.
-* **HTML, CSS, JavaScript** 🌐: Modern Web Uygulamaları geliştirme.
-* **Rust** 🦀 (Öğrenme Aşamasında): Performans ve güvenliğe odaklı sistem programlama.
+* **C++:** Algoritma ve temel sistem programlama.
+* **Python:** Yapay Zeka, Makine Öğrenimi ve betikleme.
+* **SQL:** Veritabanı yönetimi ve sorgulama.
+* **Web Dilleri:** HTML, CSS, JavaScript (Modern Web Uygulamaları için).
+* **Rust (Öğrenme Aşamasında):** Performans ve güvenliğe odaklı sistem programlama.
 
 ### ⚙️ Araçlar ve Frameworkler
-* **.NET (C#)**: Kurumsal seviye arka uç (Backend) geliştirme.
-* **Node.js**: JavaScript ile sunucu taraflı uygulama geliştirme.
-* **SSMS (SQL Server Management Studio)**: SQL veritabanı yönetimi.
-* **Robotik / Gömülü Sistemler** 🤖: Arduino IDE, Raspberry Pi uygulamaları.
-* **3D Tasarım** 🧱: Tinkercad, Bambu Lab Slicer ve temel Blender bilgisi (Robotik Projeler için).
+* **.NET (C#):** Kurumsal seviye arka uç (Backend) geliştirme.
+* **Node.js:** JavaScript ile sunucu taraflı uygulama geliştirme.
+* **SSMS (SQL Server Management Studio):** SQL veritabanı yönetimi.
+* **Robotik / Gömülü Sistemler:** Arduino IDE, Raspberry Pi uygulamaları.
+* **3D Tasarım:** Tinkercad, Bambu Lab Slicer ve temel Blender bilgisi (Robotik Projeler için).
 
 ---
 

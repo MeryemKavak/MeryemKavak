@@ -27,7 +27,7 @@ I'm a second-year Computer Engineering student and I have a great passion for so
 **Tools & Frameworks:** 
 * .NET
 * Node.js
-* SSMS (SQL Server Management Studio)
+* SSMS 
 * Robotics Coding Environments, Arduino IDE (Robotics/Hardware)
 * Bambo Lab (3D Modeling/Printing), Tinkercad, Blender (basic)
 

@@ -4,15 +4,31 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Orginal Red" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Orginal Red" />
 </p>
 
 ---
 
-
 ## 💡 Technologies I Use
 
-### Programming Languages
+### 🌐 Kullanılan Teknolojiler
+
+**<-- YENİ EKLENEN BÖLÜM: Teknoloji İkonları**
+<p align="center">
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+---
+
+### Programlama Dilleri
 * **C++** : Algorithms and foundational system programming.
 * **SQL** : Database management and querying.
 * **HTML, CSS, JavaScript** : Developing modern Web Applications.
@@ -27,11 +43,19 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ---
 
-###  GitHub Dynamics
+## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10" alt="Top Languages"/>
-</p>
+**<-- YENİ EKLENEN BÖLÜM: GitHub İstatistik Kartları**
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=tr" alt="Meryem Kavak GitHub İstatistikleri" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10&locale=tr" alt="En Çok Kullanılan Diller"/>
+        </td>
+    </tr>
+</table>
 
 ---
 

@@ -22,12 +22,12 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 * C++
 * Python
 * SQL
-* JavaScript (Web)
+* HTML, CSS , JavaScript  (Web Development)
 
 **Tools & Frameworks:** 
-* HTML, CSS (Web Development)
 * .NET
 * OpenCV, Blender (basic)
+* Node.js
 * SSMS (SQL Server Management Studio)
 * Robotics Coding Environments, Arduino IDE (Robotics/Hardware)
 * Bambo Lab (3D Modeling/Printing),Tinkercad

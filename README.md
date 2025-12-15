@@ -9,42 +9,40 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ---
 
-## 💡 Technologies I Use
+## 💡 Kullandığım Teknolojiler
 
-### 🌐 Kullandığım Teknolojiler
+### 💻 Programlama Dilleri ve Teknolojileri
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,sql,html,css,js,rust,dotnet,cs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cpp,sql,html,css,js,rust,dotnet,cs,nodejs" />
 </p>
 
----
+* **C++** : Algoritmalar ve temel sistem programlama.
+* **SQL** : Veritabanı yönetimi ve sorgulama.
+* **HTML, CSS, JavaScript** : Modern Web Uygulamaları Geliştirme.
+* **Rust** : (Şu anda öğreniyorum): Performans ve güvenliğe odaklı sistem programlama.
 
-### Programlama Dilleri
-* **C++** : Algorithms and foundational system programming.
-* **SQL** : Database management and querying.
-* **HTML, CSS, JavaScript** : Developing modern Web Applications.
-* **Rust** : (Currently Learning): System programming focused on performance and safety.
+### 🛠️ Araçlar ve Çerçeveler
 
-### 🛠️ Tools and Frameworks
-* **.NET (C#)**: Enterprise-level Backend development.
-* **Node.js**: Server-side application development using JavaScript.
-* **SSMS (SQL Server Management Studio)**: SQL database administration.
-* **Robotics / Embedded Systems** : Arduino IDE applications.
-* **3D Design** : Tinkercad, Bambu Lab Slicer, and basic Blender knowledge.
+* **.NET (C#)**: Kurumsal düzeyde arka uç geliştirme.
+* **Node.js**: JavaScript kullanarak sunucu tarafı uygulama geliştirme.
+* **SSMS (SQL Server Management Studio)**: SQL veritabanı yönetimi.
+* **Robotik / Gömülü Sistemler** : Arduino IDE uygulamaları.
+* **3B Tasarım** : Tinkercad, Bambu Lab Slicer ve temel Blender bilgisi.
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <table align="center">
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=tr" alt="Meryem Kavak GitHub İstatistikleri" />
-        </td>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10&locale=tr" alt="En Çok Kullanılan Diller"/>
-        </td>
-    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=tr" alt="Meryem Kavak GitHub İstatistikleri" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10&locale=tr" alt="En Çok Kullanılan Diller"/>
+        </td>
+    </tr>
 </table>
 
 ---

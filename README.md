@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meryem Kavak
 
-Hello, I'm Meryem. Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
+Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
 
 ---
 <p align="center">

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meryem Kavak
 
-I am a second-year **Computer Engineering** student with a great passion for software development. I am a developer focused on continuous learning and transforming innovative ideas into projects.
+I am a second-year **Computer Engineering** student with a great passion for software development.
 
 ---
 <p align="center">

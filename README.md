@@ -10,7 +10,7 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 ---
 
 
-## 🛠️ Technologies I Use
+## 💡 Technologies I Use
 
 ### Programming Languages
 * **C++** : Algorithms and foundational system programming.
@@ -19,7 +19,7 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 * **HTML, CSS, JavaScript** : Developing modern Web Applications.
 * **Rust** : (Currently Learning): System programming focused on performance and safety.
 
-### ⚙️ Tools and Frameworks
+### 🛠️ Tools and Frameworks
 * **.NET (C#)**: Enterprise-level Backend development.
 * **Node.js**: Server-side application development using JavaScript.
 * **SSMS (SQL Server Management Studio)**: SQL database administration.
@@ -28,7 +28,7 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ---
 
-### 📈 GitHub Dynamics
+###  GitHub Dynamics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10" alt="Top Languages"/>

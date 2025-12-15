@@ -19,6 +19,8 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 
 ## 🛠️ Technologies I Use
 **Languages:** C++, Python
+
+
 **Tools & Frameworks:** HTML, CSS, OpenCV, Blender (basic), Tinkercad, Robotics Coding Environments
 
 ---

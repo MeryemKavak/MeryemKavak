@@ -14,7 +14,6 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 
 ### Programming Languages
 * **C++** : Algorithms and foundational system programming.
-* **Python** : AI, Machine Learning, and scripting.
 * **SQL** : Database management and querying.
 * **HTML, CSS, JavaScript** : Developing modern Web Applications.
 * **Rust** : (Currently Learning): System programming focused on performance and safety.

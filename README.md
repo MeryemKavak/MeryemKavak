@@ -22,8 +22,10 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 **Languages:** * C++
 * Python
 * SQL
+* JavaScript (Web)
 
 **Tools & Frameworks:** * HTML, CSS (Web Development)
+* .NET
 * OpenCV, Blender (basic)
 * SSMS (SQL Server Management Studio)
 * Tinkercad, Robotics Coding Environments, Arduino IDE (Robotics/Hardware)

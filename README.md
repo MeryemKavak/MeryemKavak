@@ -23,7 +23,7 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 * **Node.js**: Server-side application development using JavaScript.
 * **SSMS (SQL Server Management Studio)**: SQL database administration.
 * **Robotics / Embedded Systems** : Arduino IDE applications.
-* **3D Design** : Tinkercad, Bambu Lab Slicer, and basic Blender knowledge (for Robotics Projects).
+* **3D Design** : Tinkercad, Bambu Lab Slicer, and basic Blender knowledge.
 
 ---
 

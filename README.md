@@ -61,4 +61,5 @@ I am a second-year **Computer Engineering** student with a great passion for sof
 ---
 
 > ⭐ Thanks for stopping by my profile!
+> 
 > 🚀 **I am open to internships and job opportunities!

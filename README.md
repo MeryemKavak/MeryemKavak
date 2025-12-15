@@ -15,8 +15,6 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 - Hardware 
 - Project Development & Teamwork
 - Robotics & Coding 🤖 (Robotik projeler geliştirmek ve kodlamak)
-- Game & Logic Development (UNO vb. oyunlar) 🧠 (Mantık ve strateji oyunlarının geliştirilmesine ilgi)
-
 ---
 
 ## 🛠️ Technologies I Use
@@ -36,29 +34,9 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 
 ### 📈 My GitHub Dynamics
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MeryemKavak&label=Profile%20Views&color=0e75b6&style=flat" alt="Meryem'in Profil Ziyaret Sayısı"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=MeryemKavak)](https://git.io/streak-stats)
-</p>
-
----
-
-## 📌 Featured Projects
-### 🔹 Emergency Evacuation Simulation 
-Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
-
-### 🔹 Sport Movement Accuracy Detection 
-A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
-
-### 🔹 Body Mass Index (BMI) Web App 
-Web app that calculates BMI from user input and generates personalized workout plans.
 
 ---
 

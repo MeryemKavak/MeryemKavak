@@ -3,6 +3,10 @@
 Hello, I'm Meryem. Second-year Computer Engineering student passionate about software development and AI. Always learning and building new ideas.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=435&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG" />
+</p>
+---
 
 ## 🚀 My Interests & Skills
 - Software
@@ -30,7 +34,39 @@ Hello, I'm Meryem. Second-year Computer Engineering student passionate about sof
 
 ---
 
+### 📈 My GitHub Dynamics
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=**[GITHUB_KULLANICI_ADINIZI_YAZIN]**&label=Profile%20Views&color=0e75b6&style=flat" alt="Meryem'in Profil Ziyaret Sayısı"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[GITHUB_KULLANICI_ADINIZI_YAZIN]**&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
 ### 🔹 Emergency Evacuation Simulation 
 Simulated real-time sensor data and hazard scenarios with AI-powered evacuation route suggestions.
-// ... diğer projeler ...
+
+### 🔹 Sport Movement Accuracy Detection 
+A system to measure the correctness of exercises using OpenCV and pose estimation, integrated with a mobile app interface.
+
+### 🔹 Body Mass Index (BMI) Web App 
+Web app that calculates BMI from user input and generates personalized workout plans.
+
+---
+
+## 🎓 Education
+**Yozgat Bozok University – Computer Engineering (2nd Year)** Focused on blending academic knowledge with hands-on projects.
+
+---
+
+## 📫 Get in Touch
+📧 Email: kavakmeryem07@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/meryemkavak
+
+---
+
+⭐ *Thanks for stopping by my profile!*

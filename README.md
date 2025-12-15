@@ -3,29 +3,26 @@
 I am a second-year **Computer Engineering** student with a great passion for software development. I am a developer focused on continuous learning and transforming innovative ideas into projects.
 
 ---
-
-
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?  ont=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Original Red Color" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C1C&width=480&lines=Always+Learning%2C+Always+Coding;Future+Computer+Engineer;Software+%26+AI+Enthusiast" alt="Typing SVG - Original Red Color" />
 </p>
-
 ---
 
 
 ## 🛠️ Technologies I Use
 
-###  Programming Languages
+### Programming Languages
 * **C++** : Algorithms and foundational system programming.
+* **Python** : AI, Machine Learning, and scripting.
 * **SQL** : Database management and querying.
 * **HTML, CSS, JavaScript** : Developing modern Web Applications.
-* **Rust**  (Currently Learning): System programming focused on performance and safety.
-* **Python** : AI, Machine Learning, and scripting.
-  
+* **Rust** : (Currently Learning): System programming focused on performance and safety.
+
 ### ⚙️ Tools and Frameworks
 * **.NET (C#)**: Enterprise-level Backend development.
 * **Node.js**: Server-side application development using JavaScript.
 * **SSMS (SQL Server Management Studio)**: SQL database administration.
-* **Robotics / Embedded Systems** 🤖: Arduino IDE, Raspberry Pi applications.
+* **Robotics / Embedded Systems** : Arduino IDE, Raspberry Pi applications.
 * **3D Design** : Tinkercad, Bambu Lab Slicer, and basic Blender knowledge (for Robotics Projects).
 
 ---

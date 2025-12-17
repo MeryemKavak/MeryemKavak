@@ -9,9 +9,9 @@ I am a second-year **Computer Engineering** student with a strong passion for so
 
 ---
 
-##  💻 Technologies I Use
+## 💡 Technologies I Use
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sql,cpp,html,css,js,rust,dotnet,nodejs" />
@@ -22,7 +22,7 @@ I am a second-year **Computer Engineering** student with a strong passion for so
 * **HTML, CSS, JavaScript**: Modern web application development  
 * **Rust** *(currently learning)*: Performance- and safety-focused systems programming  
 
-###  Tools and Frameworks
+### 🛠️ Tools and Frameworks
 
 * **.NET (C#)**: Enterprise-level backend development  
 * **Node.js**: Server-side application development with JavaScript  
@@ -32,7 +32,7 @@ I am a second-year **Computer Engineering** student with a strong passion for so
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <table align="center">
     <tr>

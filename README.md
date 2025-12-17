@@ -9,7 +9,7 @@ I am a second-year **Computer Engineering** student with a strong passion for so
 
 ---
 
-## 💡 Technologies I Use
+## 👾 Technologies I Use
 
 ### 💻 Programming Languages
 

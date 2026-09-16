@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Meryem Kavak
 
-I am a second-year **Computer Engineering** student with a strong passion for software development.
-
+Hi! I'm Meryem, a third-year Computer Engineering student.
 ---
 <p align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&width=480&lines=Always+Learning%2C+Always+Coding...;Future+Computer+Engineer!" alt="Typing SVG - Emerald Green" />

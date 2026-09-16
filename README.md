@@ -35,7 +35,7 @@
 
 ## 🎓 Education
 
-**Yozgat Bozok University – Computer Engineering (2nd Year)**
+**Yozgat Bozok University – Computer Engineering (3rd Year)**
 
 ---
 

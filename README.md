@@ -32,20 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=MeryemKavak&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Meryem Kavak GitHub Stats" />
-        </td>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemKavak&layout=compact&theme=dark&hide_title=true&hide_border=true&border_radius=10" alt="Top Languages"/>
-        </td>
-    </tr>
-</table>
-
----
 
 ## 🎓 Education
 
